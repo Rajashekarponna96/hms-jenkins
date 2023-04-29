@@ -1,0 +1,74 @@
+[
+	
+		{
+			"id": 1,
+			"status":"Profile Building",
+			"isCompleted": "true",
+			"iconName": "account-hard-hat"
+		},
+
+		{
+			"id": 2,
+			"status": "Expert Counsellor is assigned",
+			"isCompleted": "false",
+			"iconName": "clipboard-search-outline"
+		},
+		
+		{
+			"id": 3,
+			"status": "Recommendation is Build",
+			"isCompleted": "false",
+			"iconName": "clock-alert-outline"
+		},
+		
+		{
+			"id": 4,
+			"status": "Shortlisting of Colleges",
+			"isCompleted": "false",
+			"iconName": "clock-time-eight-outline"
+		},
+		
+		{
+			"id": 5,
+			"status": "Fill your College Application",
+			"isCompleted": "false",
+			"iconName": "cloud-outline"
+		},
+		
+		{
+			"id": 6,
+			"status": "Application verifying by college",
+			"isCompleted": "false",
+			"iconName": "code-tags-check"
+		},
+		
+		{
+			"id": 7,
+			"status": "Seat Alloted",
+			"isCompleted": "false",
+			"iconName": "cog-play-outline"
+		},
+		
+		{
+			"id": 8,
+			"status": "Pay Admission fee",
+			"isCompleted": "false",
+			"iconName": "comment-account-outline"
+		},
+		
+		{
+			"id": 9,
+			"status": "Admission Conformation",
+			"isCompleted": "false",
+			"iconName": "compare-vertical"
+		},
+		
+		{
+			"id": 10,
+			"status": "College Coordinator is assigned",
+			"isCompleted": "false",
+			"iconName": "content-duplicate"
+			
+		}
+		
+]

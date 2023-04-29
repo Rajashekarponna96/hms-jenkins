@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: 12
+Build-Jdk: 17.0.6
+Implementation-Title: hms
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.hms
+Implementation-URL: https://spring.io/projects/spring-boot/hms
+Created-By: Maven Integration for Eclipse
+
