@@ -1,0 +1,93 @@
+{
+  "status": 400,
+  "error": null,
+  "errorCode": "HMS0002",
+  "message": "Field Validation Error",
+  "debugMessage": null,
+  "subErrors": [
+    {
+      "object": "studentSaveRequest",
+      "field": "landMark",
+      "rejectedValue": null,
+      "message": "must not be blank",
+      "code": null
+    },
+    {
+      "object": "studentSaveRequest",
+      "field": "dob",
+      "rejectedValue": null,
+      "message": "must not be blank",
+      "code": null
+    },
+    {
+      "object": "studentSaveRequest",
+      "field": "addressTwo",
+      "rejectedValue": null,
+      "message": "must not be blank",
+      "code": null
+    },
+    {
+      "object": "studentSaveRequest",
+      "field": "identityProof",
+      "rejectedValue": null,
+      "message": "must not be blank",
+      "code": null
+    },
+    {
+      "object": "studentSaveRequest",
+      "field": "addressOne",
+      "rejectedValue": null,
+      "message": "must not be blank",
+      "code": null
+    },
+    {
+      "object": "studentSaveRequest",
+      "field": "district",
+      "rejectedValue": null,
+      "message": "must not be blank",
+      "code": null
+    },
+    {
+      "object": "studentSaveRequest",
+      "field": "city",
+      "rejectedValue": null,
+      "message": "must not be blank",
+      "code": null
+    },
+    {
+      "object": "studentSaveRequest",
+      "field": "maritalStatus",
+      "rejectedValue": null,
+      "message": "must not be blank",
+      "code": null
+    },
+    {
+      "object": "studentSaveRequest",
+      "field": "identityType",
+      "rejectedValue": null,
+      "message": "must not be blank",
+      "code": null
+    },
+    {
+      "object": "studentSaveRequest",
+      "field": "zipCode",
+      "rejectedValue": null,
+      "message": "must not be blank",
+      "code": null
+    },
+    {
+      "object": "studentSaveRequest",
+      "field": "gender",
+      "rejectedValue": null,
+      "message": "must not be blank",
+      "code": null
+    },
+    {
+      "object": "studentSaveRequest",
+      "field": "state",
+      "rejectedValue": null,
+      "message": "must not be blank",
+      "code": null
+    }
+  ]
+}
